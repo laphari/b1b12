@@ -1,0 +1,608 @@
+body
+{
+    background-image: url("https://www.phimmoi247.com/logo.png");
+    background-repeat: no-repeat;
+    background-position: 130px top;
+    background-color: #444444	;
+}
+.head
+{
+    color: white;
+    margin-top: 100px;
+    background-color: black;
+    padding: 5px;
+}
+.head1
+{
+    font-size: 15px;
+    margin-right: 20px;
+}
+.dvanhdecu
+{
+    margin-left: 125px;
+    border: 20px solid black;
+}
+.dvanhdecu1
+{
+    margin-left: 105px;
+    border: 21px solid black;
+    margin-top: 61px;
+    
+}
+.dvanhdecu2
+{
+    margin-left: 90px;
+    border: 21px solid black;
+    margin-top: 61px;
+}
+.dvanhdecu3
+{
+    margin-left: 79px;
+    border: 21px solid black;
+    margin-top: 61px;
+}
+.dvdecu1
+{
+    width: 20%;
+    float: left;
+    
+}
+
+.dvanhdecua3con
+{
+    color: black;
+    position: absolute;
+    top: 440px
+    
+}
+.dvsotap
+{
+    color: white;
+    position: absolute;
+    top: 228px
+}
+.dvanhdecua2con
+{
+    color: black;
+    position: absolute;
+    top: 444px
+}
+.dvsotap1
+{
+    color: white;
+    position: absolute;
+    top: 235px
+}
+.dvvang
+{
+    color: white;
+    position: absolute;
+    top: 420px
+}
+
+.dvtrailer1
+{
+
+ width: 22%;
+ float: left;
+}
+#overflowimg {
+    background: black;
+    color: white;
+    padding: 55px;
+    width: 50%;
+    height: 300px;
+    overflow: scroll;
+    border: 1px solid #ccc;
+  }
+  .divaside >ul li{
+    width: 50%;
+  }
+  .divaside >ul li img{
+     display: block;
+    width: 50px;
+    height: 150px;
+  }
+  .dvphim1
+  
+  {
+      display: flex;
+  }
+  .dvanhphim1
+  {
+    margin-left: 120px;
+    border: 20px solid black;
+  }
+  .dvchuphim
+  {
+    color: white;
+    position: absolute;
+    margin-left: 0px;
+  }
+  .dvtieudephim1
+  {
+    color: black;
+    position: absolute;
+  }
+  .dvanhphim2
+  {
+    margin-left: 3px;
+    border: 20px solid black;
+  }
+  .dvanhphim3
+  {
+      margin-top: -200px;
+      border: 20px solid black;
+      margin-left: 120px;
+  }
+  .dvanhphim4
+  {
+    margin-top: -290px;
+    border: 20px solid black;
+    margin-left: 3px; 
+  }
+  .divan
+  {
+      display: none;
+  }
+  #divhien:hover .divan
+  {
+      display: block;
+    
+  }
+  .divscroll
+  {
+      display: flex;
+  }
+  .divaside1 .divscroll .divitemlist > h5:hover
+  {
+   color: darkblue;
+  }
+   .spanitem
+  {
+   color: blue;
+  }
+  .spanitemhover:hover
+  {
+      color: cadetblue;
+  }
+  .divphimbohot
+  {
+      display: flex;
+  }
+  .dvanhphimbohot
+  {
+    margin-top: 80px;
+    margin-left: -250px;
+    border: 20px solid black;
+    height: 280px;
+  }
+  .dvanhphimbohot1
+  {
+    margin-top: 80px;
+    margin-left: -30px;
+    border: 20px solid black;
+    height: 280px;
+  }
+  .dvsotapphimbohot
+{   
+    color: white;
+    position: absolute;
+    top: 2320px
+}
+.dvvangphimbohot
+{
+color: white;
+position: absolute;
+top: 2345px
+}
+.dvanhtenphimcuaphimbohot
+{
+color: black;
+position: absolute;
+top: 2570px
+}
+.dvsotapphimbohot1
+{   
+    color: white;
+    position: absolute;
+    top: 2320px
+}
+.dvvangphimbohot1
+{
+color: white;
+position: absolute;
+top: 2345px
+}
+.dvanhtenphimcuaphimbohot1
+{
+color: black;
+position: absolute;
+top: 2570px
+}
+.dvsotapphimbohot2
+{   
+    color: white;
+    position: absolute;
+    top: 2320px
+}
+.dvvangphimbohot2
+{
+color: white;
+position: absolute;
+top: 2345px
+}
+.dvanhtenphimcuaphimbohot2
+{
+color: black;
+position: absolute;
+top: 2570px
+}
+.divphimbodienvien
+{
+    color: cyan;
+    margin-left: 125px;
+    border: 7px solid black;
+    background-color: black;
+    margin-top: -12px;
+    width: 200px;
+    font-size: 15px;
+}
+.divphimbodienvien1
+{
+    color: cyan;
+    margin-left: 7px;
+    border: 10px solid black;
+    background-color: black;
+    margin-top: -18px;
+    width: 180px;
+    font-size: 15px;
+}
+.divphimbodienvien2
+{
+    color: cyan;
+    margin-left: 7px;
+    border: 10px solid black;
+    background-color: black;
+    margin-top: -18px;
+    width: 175px;
+    font-size: 15px;
+}
+.divphimbodienvien3
+{
+    color: cyan;
+    margin-left: 6px;
+    border: 10px solid black;
+    background-color: black;
+    margin-top: -18px;
+    width: 169px;
+    font-size: 15px;
+}
+.divphimbodienvien4
+{
+    color: cyan;
+    margin-left: 7px;
+    border: 10px solid black;
+    background-color: black;
+    margin-top: -18px;
+    width: 194px;
+    font-size: 15px;
+}
+.divgioithieudienvien
+{
+    display: flex;
+   
+}
+.divdienvien {
+    background-color: black;
+    width: 1040px;
+    overflow-x: auto;
+    margin-left: 120px;
+    display: flex;
+  }
+.divgioithieutendienvien
+{
+    font-size: 15px;
+    color: white;
+    margin-left: -190px;
+}
+.divgioithieutendienvien1
+{
+    font-size: 15px;
+    color: white;
+    margin-left: 10px;
+}
+.divgioithieutendienvien2
+{
+    font-size: 15px;
+    color: white;
+    margin-left: 40px;
+}
+.divgioithieutendienvien3
+{
+    font-size: 15px;
+    color: white;
+    margin-left: 40px;
+}
+.divan1
+{
+    display: none;
+}
+.head2:hover .divan1
+{
+    display: block;
+    color: white;
+}
+.divan2
+{
+    display: none;
+}
+.head3:hover .divan2
+{
+    display: block;
+}
+.head1.head2.head3:hover
+{
+ color: blueviolet;
+}
+.divan.a:hover
+{
+    color: red;
+}
+.img1:active
+{
+    transform: scale(2,3);
+}
+.div3{
+    height: 10px;
+    width: 47px;
+    background-color: rgb(243, 243, 234);
+    border-radius: 120px;
+    border: 1px solid black;
+    margin-left: 120px;
+
+}
+.div4{
+    height: 10px;
+    width: 40px;
+    background-color: red;
+    transition: width 3s;
+    z-index: 1;
+    border-radius: 30px;
+
+}
+.div4:hover{
+    width: 30px;
+}
+.cackenh
+{
+    display: flex;
+}
+.dvanhkenh
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 350px;
+    margin-left: 125px;
+}
+.divanhkenh:active
+{
+    transform: scale(2,3);
+}
+.nextflixchay
+{
+    width: 50px;
+    height: 16px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 10s;
+    margin-left: 125px;
+    display: flex;
+}
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  .dvanhkenh1
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 350px;
+    margin-left: 33px;
+}
+.nextflixchay1
+{
+    width: 50px;
+    height: 16px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 10s;
+    margin-left: 33px;
+    padding: 0px 20px 0px 20px;
+}
+.nextflixchay2
+{
+    width: 50px;
+    height: 16px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 10s;
+    margin-left: 30px;
+}
+.nextflixchay3
+{
+    width: 50px;
+    height: 16px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 10s;
+    margin-left: 28px;
+    padding: 0px 15px 0px 15px;
+}
+.nextflixchay4
+{
+    width: 68px;
+    height: 16px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 10s;
+    margin-left: 28px;
+    padding: 0px 0px 0px 0px;
+}
+.vote
+{
+    display: flex;
+}
+.div9{
+    height: 10px;
+    width: 47px;
+    background-color: rgb(243, 243, 234);
+    border-radius: 120px;
+    border: 1px solid black;
+    margin-left: 40px;
+
+}
+.div10{
+    height: 10px;
+    width: 7px;
+    background-color: red;
+    transition: width 3s;
+    z-index: 1;
+    border-radius: 30px;
+
+}
+.div10:hover{
+    width: 30px;
+}
+.div11{
+    height: 10px;
+    width: 47px;
+    background-color: rgb(243, 243, 234);
+    border-radius: 120px;
+    border: 1px solid black;
+    margin-left: 35px;
+
+}
+.div12{
+    height: 10px;
+    width: 7px;
+    background-color: red;
+    transition: width 3s;
+    z-index: 1;
+    border-radius: 30px;
+
+}
+.div12:hover{
+    width: 30px;
+}
+.div13{
+    height: 10px;
+    width: 47px;
+    background-color: rgb(243, 243, 234);
+    border-radius: 120px;
+    border: 1px solid black;
+    margin-left: 33px;
+
+}
+.div14{
+    height: 10px;
+    width: 7px;
+    background-color: red;
+    transition: width 3s;
+    z-index: 1;
+    border-radius: 30px;
+
+}
+.div13:hover{
+    width: 30px;
+}
+.div15{
+    height: 10px;
+    width: 47px;
+    background-color: rgb(243, 243, 234);
+    border-radius: 120px;
+    border: 1px solid black;
+    margin-left: 33px;
+
+}
+.div16{
+    height: 10px;
+    width: 7px;
+    background-color: red;
+    transition: width 1s;
+    z-index: 1;
+    border-radius: 25px;
+
+}
+.div16:hover{
+    width: 30px;
+}
+.phimcachang
+{
+    display: flex;
+    background-color: black;
+    width: 510px;
+    height: 180px;
+    border: 1px dotted black;
+    overflow: auto;
+    margin-left: 130px;
+    margin-top: -70px;
+}
+.anhphimcachang:active
+{
+    transform: scale(2,3);
+}
+.anhphimcachang
+{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+.dv17 {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    animation-name: example1;
+    animation-duration: 10s;
+    margin-top: 50px;
+    margin-left: 120px;
+    color: white;
+  }
+  
+  @keyframes example1{
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+  .dv18 {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    animation-name: example1;
+    animation-duration: 10s;
+    margin-top: 50px;
+    margin-left: px;
+    display: flex;
+    color: white;
+  }
+  .dvbao
+  {
+      display: flex;
+  }
+  .div19 {
+    width: 1200px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 5s;
+  }
+  
+  @keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:700px; top:0px;}
+    50%  {background-color:blue; left:700px; top:700px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+  
