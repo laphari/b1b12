@@ -1,0 +1,112 @@
+
+.tieude1
+{
+    background-color: black;
+    display: flex;
+    height: 40px;
+}
+.li1
+{
+   margin-top: 12px;
+}
+.li2
+{
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.li2:hover
+{
+    background-color: 	#BBBBBB;
+    width: 45px;
+    height: 20px;
+}
+.li3:hover
+{
+    background-color:	#BBBBBB;
+    width: 32px;
+    height: 20px;
+}
+.li4:hover
+{
+    background-color:	#BBBBBB;
+    width: 90px;
+    height: 20px;
+}
+.li5:hover
+{
+    background-color:	#BBBBBB;
+    width: 65px;
+    height: 20px;
+}
+.li6:hover
+{
+    background-color:	#BBBBBB;
+    width: 95px;
+    height: 20px;
+}
+.li7:hover
+{
+    background-color:	#BBBBBB;
+    width: 65px;
+    height: 20px;
+}
+.li8:hover
+{
+    background-color:	#BBBBBB;
+    width: 58px;
+    height: 20px;
+}
+.li9:hover
+{
+    background-color:	#BBBBBB;
+    width: 40px;
+    height: 20px;
+}
+.li10:hover
+{
+    background-color:	#BBBBBB;
+    width: 60px;
+    height: 20px;
+}
+.li11:hover
+{
+    background-color:	#BBBBBB;
+    width: 24px;
+    height: 20px;
+}
+.li12
+{
+    margin-top: 12px;
+    margin-left: 280px;
+}
+.li12:hover
+{
+    background-color:	#BBBBBB;
+    width: 20px;
+    height: 18px;
+}
+.li13
+{
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.li13:hover
+{
+    background-color:	#BBBBBB;
+    width: 20px;
+    height: 18px;
+}
+.divlist {
+    background-color: #eee;
+    width: 200px;
+    height: 500px;
+    border: 1px dotted black;
+    overflow-x: auto;
+    margin-top: -12px;
+  }
+.listitem:hover
+{
+    background-color:	#BBBBBB;
+    width:160px;
+    height: 18px;
+}
