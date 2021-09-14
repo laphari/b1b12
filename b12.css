@@ -1,0 +1,204 @@
+.tieude1
+{
+    background-color: #880000;
+    display: flex;
+    height: 40px;
+}
+.li1
+{
+   margin-top: 12px;
+   margin-left: 25px;
+}
+.li2
+{
+    margin-top: 12px;
+    margin-left: 25px;
+}
+.li2:hover
+{
+    background-color: black;
+    width: 29px;
+    height: 25px;
+    box-sizing: border-box;
+}
+.li3:hover
+{
+    background-color:black;
+    width: 60px;
+    height: 25px;
+  
+}
+.li4:hover
+{
+    background-color:black;
+    width: 31px;
+    height: 25px;
+}
+.li5:hover
+{
+    background-color:black;
+    width: 125px;
+    height: 25px;
+}
+.li6:hover
+{
+    background-color:black;
+    width: 110px;
+    height: 25px;
+}
+.li7:hover
+{
+    background-color:black;
+    width: 72px;
+    height: 25px;
+}
+.li8:hover
+{
+    background-color:black;
+    width: 90px;
+    height: 25px;
+}
+.li9:hover
+{
+    background-color:	black;
+    width: 50px;
+    height: 25px;
+}
+.li10:hover
+{
+    background-color:	black;
+    width: 60px;
+    height: 25px;
+}
+.li11:hover
+{
+    background-color:black;
+    width: 40px;
+    height: 25px;
+}
+.li12:hover
+{
+    background-color:black;
+    width: 82px;
+    height: 25px;
+}
+.li13
+{
+    margin-top: 12px;
+
+}
+.li13:hover
+{
+    background-color:black;
+    width: 15px;
+    height: 25px;
+}
+.tintidichuyen
+{
+    background-color: white;
+    width: 750px;
+    overflow-x: auto;
+    display: flex;
+    height: 200px;
+}
+.dv6
+{
+ width: 60%;
+}
+.bddangchuy
+{
+    background-color: black;
+    width: 93%;
+    color: white;
+    box-sizing: border-box;
+    padding: 8px;
+    height: 35px;
+    border-style:  solid ;
+    border-left-color: tomato;
+}
+.nen
+{
+    background-color: #222222;
+    width: 753px;
+    margin-left: 1px;
+    margin-top: -18px;
+}
+.bdamnhac
+{
+    border: solid 2px grey;
+    margin-left: -40px;
+    width: 270px;
+}
+.bdlich
+{
+    border: 1px solid #DDDDDD;
+    border-radius: 20px;
+    margin-top: 5px;
+    width: 190px;
+    display: inline-block;
+}
+.bdlive
+{
+    background-color: tomato;
+    border: 1px solid tomato;
+    color: white;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+.lich
+{
+    background-color: grey;
+    margin-left: -3px;
+    padding: 3px 13px 3px 20px;  
+    box-sizing: border-box;
+}
+.lich:hover
+{
+   background-color: red;
+    width: 100px;
+}
+.bangxephang
+{
+    display: inline-block;
+}
+.xem
+{
+    background-color: silver;
+    border: 1px solid white;
+    border-radius: 12px;
+    box-sizing: border-box;
+    padding: 2px 19px 3px 52px;
+}
+.xem:hover
+{
+    background-color: tomato;
+}
+.bdbeauty
+{
+    border: 2px solid white;
+    border-left-color:  tomato;
+    
+}
+.sukiehover:hover
+{
+    background-color: red;
+    width: 350px;
+}
+.pagination {
+    display: inline-block;
+  }
+  
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 8px;
+    text-decoration: none;
+    width: 100px;
+  }
+  
+  .pagination a.active {
+    background-color:tomato;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: #ddd;}
